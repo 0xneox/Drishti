@@ -5,4 +5,5 @@ Face recognition using python
 Python 
 OpenCV
 
-Run python drishti.py 
+## Usage
+ python drishti.py 
