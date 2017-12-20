@@ -8,8 +8,7 @@ from wand.image import Image
 cascPath = "haarcascade_frontalface_default.xml"
 faceCascade = cv2.CascadeClassifier(cascPath)
  
- 
-# Get user supplied images
+ # Get user supplied images
 files_grabbed = [glob.glob(e) for e in ['images/*.jpg', 'images/*.png']]
 files=[]
 for filetype in files_grabbed:
