@@ -1,7 +1,7 @@
 # Drishti
 Face recognition using python 
 
-##Requirements
+## Requirements
 Python 
 OpenCV
 
